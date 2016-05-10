@@ -15,6 +15,6 @@ Necessary for completing the task
 ### Recomendations:
 > Available upon request
 
-!(https://github.com/grituc/Einkaufsliste2.git/Bild.jpg "Nice picture")
+![someText](/Bild.jpg "Nice picture")
 
 
