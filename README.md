@@ -15,6 +15,6 @@ Necessary for completing the task
 ### Recomendations:
 > Available upon request
 
-!(./Bild.jpg "Nice picture")
+!(~/HFU/SEOS/GitHub2/Einkaufsliste2/Bild.jpg "Nice picture")
 
 
