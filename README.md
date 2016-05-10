@@ -1,13 +1,16 @@
 # Lebenslauf
 
-This information has been made up
+This information has been **made up**
+
 Necessary for completing the task
 
 ## Info:
 
 > Born city: Manchester
+>
 > Month: April
-> Nationality: Caledonia
+>
+> Nationality: *Caledonia*
 
 ### Recomendations:
 > Available upon request
